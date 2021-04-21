@@ -13,7 +13,7 @@ A remote can be added with the `git remote add` command, followed by the name an
 The name is a local name, meaning it's your label and does not impact the actual remote whatsoever.
 
 ```
-git remote add origin https://github.com/ElevenFiftyAcademy/GitFundamentals.git
+git remote add origin https://github.com/ElevenfiftyAcademy/GitFundamentals.git
 ```
 
 ### Removing a remote
